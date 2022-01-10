@@ -1,0 +1,16 @@
+{
+  "name": "post",
+  "version": "1.0.0",
+  "description": "Generating dummy data for testing!",
+  "main": "generator.js",
+  "scripts": {
+    "generate": "node generator.js"
+  },
+  "keywords": [],
+  "author": "dasgupta",
+  "license": "ISC",
+  "dependencies": {
+    "coder-ipsum": "^1.1.2",
+    "faker": "^5.4.0"
+  }
+}
